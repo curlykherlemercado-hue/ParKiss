@@ -2,7 +2,7 @@
 
 ────────────────────────────────────────────────────────────────────────────────────
 
-𝐼𝒯–2108
+𝐼𝒯–2108 
 
 Magtibay,  Mico John  R.
 
@@ -47,9 +47,7 @@ Car, Motorcycle, and Truck inherit from Vehicle.
 
 ✧ 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
 
-Parkiss/
-
-│
+Parkiss
 
 ├─ Main.java 
 
